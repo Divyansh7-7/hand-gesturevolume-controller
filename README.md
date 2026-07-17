@@ -11,6 +11,11 @@ Volume Controller is a desktop utility that enables users to control their compu
 This project is ideal for learning desktop automation, Python programming, and system-level interactions.
 
 ---
+## 🎥 Demo
+
+See the Hand Gesture Volume Controller in action:
+
+https://github.com/user-attachments/assets/4aa939b0-7e2e-4061-ada3-4015e72b9117
 
 ## 🛠️ Tech Stack
 
